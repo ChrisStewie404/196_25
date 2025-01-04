@@ -24,9 +24,9 @@ A: measure ecological system in 3 ways:
 - **compare** the orginal data and the altered data
 # How to get data  
 - graph(Great Lake)
-![great lake](../great_lake.png)
+![great lake](./great_lake.png)
 #  
 # Visualization  
 ## SHOW **INFO**!!!!
-![explicit](../mcm24A1.png)  
-![messy](../mcm24A2.png)
+![explicit](./mcm24A1.png)  
+![messy](./mcm24A2.png)
